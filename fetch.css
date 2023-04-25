@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.continer-fluid {
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+     /* border: 3px solid black; */
+     width: 50%;
+     height: 100%;
+}
+
+@media screen and (max-width: 400px) {
+    
+}
