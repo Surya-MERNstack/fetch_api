@@ -20,7 +20,7 @@ const url = 'https://restcountries.com/v3.1/all';
          <p class="card-title">ID :${values.user}</p>
          <p class="card-text">UserID :${values._id}</p>
          <p class="card-title">Text :${values.text}</p>
-         <textarea name="" id="" cols="30" rows="2" placeholder="comments..." style ='box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;border:none;outline:none;border-radius:3px;padding:2px;'></textarea>
+         <textarea name="" id="" cols="60" rows="2" placeholder="comments..." style ='box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;border:none;outline:none;border-radius:3px;padding:2px;'></textarea>
          </div>  
      </div> 
        `
