@@ -2,8 +2,6 @@
 const ulr_1 = 'https://meowfacts.herokuapp.com/?count=50'
 const urls = 'https://cat-fact.herokuapp.com/facts'
 
-
-
 const url = 'https://restcountries.com/v3.1/all';
 
  fetch(urls).then(
